@@ -1,0 +1,22 @@
+this project is designed to provide a web interface for an automated
+watering system.
+The web page will display 
+    -Time
+    -Date
+    -watering status
+    -Soil moisture content
+    -humidity
+    -temp of the sun
+    -air temp
+    -A graph of the past 7 days
+        -temperature through eachday
+        -when watering occured
+        -and a meaasure of the soil mositure content through each day
+ 
+The page will have several configurable parameters:
+    -The number of watering events
+    -The length of time an event should last
+    -Overriding the status of the system
+        -Switching it off or on permamnently. Manual operation.
+
+ 
