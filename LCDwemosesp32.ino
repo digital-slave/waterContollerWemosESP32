@@ -2,7 +2,7 @@
 #include <Arduino.h>
 #include <stdlib.h>
 //39 (0x27)
-
+//I have just added a git repo in this directory
 #define wateringPin 16 
 #define wateringPin2 17
 
