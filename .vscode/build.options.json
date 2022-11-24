@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "/home/tristan/arduino-1.8.19/libraries",
+  "builtInToolsFolders": "/home/tristan/arduino-1.8.19/tools-builder,/home/tristan/arduino-1.8.19/hardware/tools/avr,/home/tristan/.arduino15/packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=/home/tristan/Documents/arduino_sketches/wemosd32/build,build.warn_data_percentage=75,runtime.tools.mkspiffs.path=/home/tristan/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.mkspiffs-0.2.3.path=/home/tristan/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.esptool_py.path=/home/tristan/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.esptool_py-3.0.0.path=/home/tristan/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.xtensa-esp32-elf-gcc.path=/home/tristan/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-97-gc752ad5-5.2.0.path=/home/tristan/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0",
+  "fqbn": "esp32:esp32:lolin32:FlashFreq=80,PartitionScheme=default,CPUFreq=240,UploadSpeed=921600",
+  "hardwareFolders": "/home/tristan/arduino-1.8.19/hardware,/home/tristan/.arduino15/packages",
+  "otherLibrariesFolders": "/home/tristan/Documents/arduino_sketches/libraries",
+  "runtime.ide.version": "10819",
+  "sketchLocation": "/home/tristan/Documents/arduino_sketches/wemosd32/sketch_sep22a/"
+}
